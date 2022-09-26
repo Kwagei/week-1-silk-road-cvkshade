@@ -1,0 +1,50 @@
+
+img#img {
+    width: 15em;
+}
+.listing.item1 {
+    height: 9.7rem;
+    width: 100%;
+}
+.inside-continer {
+    height: 95%;
+    display: flex;
+    width: 100%;
+}
+
+p.horent {
+    background-color: darkcyan;
+    color: white;
+    width: fit-content;
+    position: relative;
+    right: -25rem;
+    bottom: -4px;
+ }
+ 
+ 
+ .details {
+    padding: 0.3rem 4rem;
+}
+ .second{
+    /* background-color: red; */
+    height: 8rem;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1rem;
+    box-shadow: 2px 2px gainsboro, -2px -2px gainsboro;
+}
+.small {
+    display: flex;
+    justify-content: space-between;
+    padding: 3px 0px;
+}
+.small i {
+    color: gold;
+}
+.myselect {
+    position: relative;
+    display: flex;
+    width: 140px;
+    margin-right: 1rem;
+    outline: none;
+}
